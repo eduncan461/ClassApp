@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SCC CIS Mobile Design Class Portal</string>
+    <string name="passwordString">Password</string>
+    <string name="usernameString">Username</string>
+    <string name="submitString">Submit</string>
+    <string name="greetingString">Please enter your username and password.</string>
+    <string name="resetButtonString">RESET</string>
+    <string name="English">English</string>
+    <string name="Spanish">Spanish</string>
+    <string name="Choose">Choose</string>
+    <string name="welcomeString">Welcome to CISP 362</string>
+    <string name="nameTextView">Name:</string>
+    <string name="addressTextView">Address:</string>
+    <string name="emailTextView">Email:</string>
+    <string name="timeTextView">Time:</string>
+    <string name="dateTextView">Date:</string>
+
+</resources>
